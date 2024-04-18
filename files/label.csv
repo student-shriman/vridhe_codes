@@ -1,0 +1,569 @@
+question,bloom_cats_by_gemini,bloom_cats_by_human,context,answers,correct_answer_id
+What does that narrator think of Cathy?,Analyzing,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['That she is a little nuts.' 'not enough information'
+ 'That she is really nice.' 'That she is mean.']",0
+Where does Aunt Cathy live?,Remembering,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['not enough information' 'She lives on the west coast.'
+ 'She lives in the midwest.' 'She lives on the east coast.']",3
+How long did it probably take for the narrator's mom to pack?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.",['not enough information' 'more than a day' 'less than a day' 'a few days'],2
+What did the narrator do in the evening of the day their mother left?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['cleaning the kitchen'
+ ""putting things in their places after the mother's packing""
+ 'not enough information' 'a teenage drug party']",2
+What does the narrator's mom think about how the narrator is handling the death of their father?,Analyzing,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['The mother thinks he is angry' 'The mother thinks he feels marvelous'
+ 'The mother thinks he is getting better' 'not enough information']",2
+When did the narrator skip school?,Remembering,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['After his mom went to Delaware.' ""soon after his father's funeral.""
+ 'not enough information' 'Before his mom went to Delaware.']",0
+Why did the narrator's mom leave the next morning?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['To help Aunt Cathy' 'To go to the school' 'because her husband died'
+ 'not enough information']",0
+How did the narrator probably handle his father's death?,Analyzing,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['He is not doing so well.'
+ 'He had a rough time at first but now is doing better.'
+ ""It didn't bother him at all."" 'not enough information']",1
+Who went away the next morning?,Remembering,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['not enough information' 'The narrator.' ""The narrator's mother.""
+ 'Cathy.']",2
+For how long did the narrator probably sleep after his mother left?,Analyzing,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['they slept for over five hours more' ""they didn't sleep""
+ 'they slept for a few hours more' 'not enough information']",2
+Who thought that the narrator was feeling better?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['Aunt Cathy' ""The narrator's mom"" 'not enough information'
+ ""The narrator's dad""]",1
+How long will it probably take to drive to Aunt Cathy's?,Applying,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.",['Eight hours.' 'Four hours.' 'Twelve hours.' 'not enough information'],3
+"After the story ends, the narrator probably:",Analyzing,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['Continues to skip school' 'not enough information' 'Goes to Delaware'
+ 'Throws a party']",0
+Why did Cathy not come when the narrator's father died?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['not enough information' ""she probably didn't care that much""
+ ""she lost her car's keys"" 'her car broke']",1
+Why did the narrator plan to skip school?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['because they were doing drugs' 'not enough information'
+ 'because they were depressed' 'because they wanted some freedom']",1
+What did the narrator do the day his mom left?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['Went to Delaware' 'Nothing' 'not enough information'
+ 'Packed their clothes']",1
+What is probably true about the narrator's mom?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","[""She doesn't care if her son goes to school"" 'not enough information'
+ ""She cares about her sister-in-law's well-being"" 'She hates Delaware']",2
+Why is the narrator's mom going to Delaware?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['To visit Aunt Cathy because she could use company.'
+ 'not enough information' 'Because Delaware is beautiful in March.'
+ 'To visit Aunt Cathy and have a wild teenage party.']",0
+What will happen in a few hours?,Understanding,,"The biggest thorn in the paw of my grand plan to stop going to school was that my mom would probably notice that I wasn't going to school.
+It wasn't an issue, however. When I got home my mom was running around the house shuttling clothes from closets and drawers to open suitcases.
+""Are we going somewhere?"" I asked, setting my car keys on the kitchen table.
+She stopped in place and stood up, looking at me for a moment.
+""I am,"" she started. ""I've been talking to Aunt Cathy on the phone and I don't think she's doing very well, with the divorce and then your father. I'm going to spend a few days out there with her until she's feeling better.""
+Cathy is my dad's sister and I always suspected her to be a bit batty. She didn't come from Delaware for my dad's, her brother's, funeral; said she wouldn't be able to drive herself, and nobody could pick her up.
+My mom continued, ""Would that be alright? I mean, will you be okay by yourself for a while?""
+She must have noticed that I was handling things better than I had been at first. My dad died in January, it was now March. Seems like enough time to me.
+""I'll be fine,"" I said. ""Nothing major going on, just school. Are you leaving tonight or tomorrow?""
+Nothing major.
+She left early the next morning, before I would normally leave for school. Before she left she told me not to throw any wild teenage drug parties. I told her I wouldn't know how if I wanted to. She left, I went back to bed.
+It's a marvelous feeling, to sleep right through the start of the school day. Skipping school is one thing, playing sick is one thing, but just not going to school is another feeling entirely. It felt like freedom. The kind of freedom that will cost you later, but at the time seems worth it.","['The narrator will decide to go to school after all.'
+ 'not enough information' 'The narrator will throw a wild party.'
+ ""The narrator's school will call.""]",1
+Why is it difficult to get the roof off the car?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['Because the car is on fire' 'not enough information'
+ 'Because of the people that are in it'
+ 'The fire service people are incompetent']",2
+Who is not dressed for the weather?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.",['Patient' 'Doctor' 'not enough information' 'Firefighter'],0
+Where is the person strapped to a board taken at the end of the story?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['firefighters station' 'Hospital' 'Back into the car involved in RTA'
+ 'not enough information']",1
+How many women patients were in the accident?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.",['not enough information' 'eight' 'seven' 'one'],3
+When do the paramedics feel that it's too hot?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['not enough information' 'before leaving the station.'
+ 'while they assess the patient' 'when they arrive to the RTA spot']",2
+"Soon after the end of this story, patient will probably",Analyzing,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['Call their insurance company.' 'Go for a drive.'
+ 'not enough information' 'Die.']",0
+When did the narrator arrive to the scene?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['before the police the Cop' 'not enough information'
+ 'After 3 other ambulances' 'Before the Fire truck']",2
+How long did it probably take the crew to assess the patient?,Analyzing,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['about an hour' 'less than an hour' 'not enough information'
+ 'more than an hour']",1
+Why is the patient cold?,Analyzing,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['Because he is dressed appropriately'
+ 'Because he is not dressed appropriately' 'not enough information'
+ 'Because he was in a car accident.']",1
+How many children does the patient have,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.",['zero' 'seven' 'one' 'not enough information'],3
+What is the stationmate the most likely to do outside of work?,Applying,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['not enough information' 'Sit in his room alone' 'Go to the library'
+ 'Tell jokes']",3
+Who usually clowns around?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['not enough information' 'The crew' 'The patient strapped to the board.'
+ ""The narrator's stationmate.""]",3
+What arrived first to the scene?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.",['An ambulance.' 'A police car.' 'A fire truck.' 'not enough information'],3
+What does the narrator think of the situation?,Analyzing,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['not enough information' 'That it is not life threatening.'
+ 'That it is hopeless.' 'That it is life or death.']",1
+What does the stationmate probably tell the crew to do?,Applying,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['To take care of the people with the worst injuries'
+ 'not enough information' 'to remove the lid from the car'
+ 'to wear fake beards and silly glasses']",0
+What time of day was the accident?,Understanding,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['In the late morning.' 'late at night' 'In the afternoon.'
+ 'not enough information']",1
+When did the accident probably occur?,Analyzing,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['A long time ago' 'less than 5 minutes ago' 'not enough information'
+ 'A short time ago']",3
+What does the narrator think of his stationmate?,Analyzing,,"Two a.m. and we are standing on the side of the road waiting for the fire service to take the top off the car in front of us. The wind whistles across the flats making us all shiver despite our fleeces and our jackets.
+Two cars have been involved in a high-speed road traffic accident (RTA), the parked car that was hit has been shunted forward leaving ten-yard-long skid marks. The cars aren't too damaged but the seats inside have shifted around, trapping the occupants.
+There are seven ambulances here, four fire trucks, half a dozen police and three ambulance officers with clipboards. There are eight patients, all but one need cutting from the cars and collaring and boarding. The only woman involved is 'walking wounded'.
+The reason that it is taking so long for our car to get its lid removed by the fire service is because of the position of one of the patients inside. He looks rather unwell and the crew looking after him really would like to get to him sooner rather than later.
+Our ambulance was fourth on scene. When I arrived I spoke to a stationmate to see what he wanted us to do, who he wanted us to look after. Normally he is the station clown, now he's all serious and professional, no fake beards or silly glasses.
+Everyone gets checked over, all the ambulance crews are calm, it's serious but it doesn't look like anyone is about to die; more a case of being careful moving the patients 'just in case'.
+The roof comes off the car and with the help of another crew and some firefighters we get our patient out safely and strapped to a board. He is freezing cold. He is not wearing warm clothing so the delay in getting him out and the terrible weather have us concerned for his body temperature.
+We are in a new ambulance so the heater works. Turning it up to full we are soon sweating as we assess the patient and prepare for transport.","['not enough information' 'He wears fake glasses'
+ 'He is the station clown' 'He has a silly beard']",2
+How is the young man probably feeling?,Analyzing,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['not enough information' 'He is calm and relaxed.' 'He is scared.'
+ 'He is excited.']",2
+How FRU responded to the problem?,Analyzing,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['starting the patient on asthma medication'
+ 'giving the patient a taxi ride to the hospital' 'not enough information'
+ 'dealing with the drunken group of teenage girls']",0
+How long did it probably take for the ambulance to come?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['several hours' 'over an hour' 'not enough information'
+ 'less than an hour']",3
+How many miles away is the hospital?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.",['Six' 'not enough information' 'Fifteen' 'Five'],1
+Where the events of the story take place?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['Near the night club' 'near the Taxi office' 'In the car'
+ 'not enough information']",1
+Who had been in line at a nightclub before the asthma accident?,Analyzing,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['The young man.' 'not enough information' 'The emergency worker.'
+ 'That cab driver.']",0
+How long did the emergency worker probably care for the young man?,Applying,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['until he got to the hospital' 'not enough information' 'All night.'
+ 'until the ambulance arrived']",3
+Will the sick person be able to pay for the attention during this incident?,Analyzing,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['not enough information'
+ 'Yes, he knows he has asthma so he has Health Insurance.'
+ 'Probably he will scrape enough money together'
+ 'NO, he is very poor so he does not have Health Insurance even though he has asthma.']",0
+What did the FRU person think?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['not enough information'
+ ""That people shouldn't queue to get into nighclubs""
+ ""That people shouldn't ever get drunk""
+ 'That there should be more ambulances']",3
+What does the emergency worker think about the lack of ambulances?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['It is not a problem.' 'not enough information' 'It is a problem.'
+ 'It is good for traffic that there are few ambulances on the road.']",2
+Why was the young man wheezing?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['Because of the exhaust from the taxi.' 'Because he was sick.'
+ 'Because of the loud music from the club.' 'not enough information']",1
+When did the patient receive a second dose of asthma medication?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['after heading to the taxi office' 'after ambulance arrived'
+ 'ten minutes after he got to the nightclub' 'not enough information']",0
+When did the man have an asthma attack?,Understanding,,"The staffing of ambulances at the moment is ... to put it bluntly ... poor.
+Working on the fast response unit (FRU - a car that is designed to get to the sickest patients quickly) means that I often get to an emergency call within minutes of it being made. Unfortunately, with so few ambulances on the road, the patient and I are often left staring at each other for long periods of time; in a couple of cases up to an hour.
+I was sent to a young man having an asthma attack. It was late at night, and he had been queuing to get into a nightclub when he had started to feel his breathing getting tight, the sign of an asthma attack, so had headed to a taxi office in order to go home. Unfortunatel, his asthma progressed and so an ambulance was called. What he got was me, on my own, in a car.
+After dealing with the drunken group of teenage girls that had taken time out of waiting for a cab to start loudly 'caring' for my patient, I started my assessment. It was a cold night so I sat the young man in the taxi office and listened to his chest. I could hear a nice loud wheezing from his lungs so I started him on the first dose of our asthma medication. I got his details and checked his vital signs, and waited for the ambulance to turn up.
+It takes between five and ten minutes for the asthma medication to finish, and by the end of it there was still no ambulance.
+I listened to his chest again, still an audible wheeze, so I gave him a second dose of the medication. So there he was, sitting in a cab office at three in the morning with a mask over his face, 'smoke' pouring from it, and all around us were intoxicated people getting cabs home.
+It was not very dignified.","['not enough information' 'After the narrator arrived.'
+ 'After getting in line at the club.' 'After meeting the teenage girls.']",2
+What is the main function of a Galvanic cell?,Understanding,,,,
+What are the two half-cells in a Galvanic cell connected by?,Understanding,,,,
+"In a Galvanic cell, where does oxidation occur?",Understanding,,,,
+"If the potential difference between the anode and cathode in a Galvanic cell is increased, what will happen to the current?",Understanding,,,,
+Is a Galvanic cell with a larger potential difference always better than one with a smaller potential difference?,Evaluating,,,,
+What is the difference between a Galvanic cell and an electrolytic cell?,Analyzing,,,,
+What is the average rate of change of a function f(x) from x = a to x = b?,Understanding,,,,
+"If a car travels 150 kilometers in 3 hours, what is its average speed?",Applying,,,,
+"How would you calculate the average rate of change of the function f(x) = x^2 over the interval [1, 4]?",Applying,,,,
+"Given the function f(x) = 3x^3, what is the average rate of change from x = 2 to x = 5?",Applying,,,,
+Evaluate the statement: 'The average rate of change of a function is the same as its instantaneous rate of change at a point.',Evaluating,,,,
+What does the average rate of change of a function tell you between two points?,Analyzing,,,,
+"If a car travels 150 kilometers in 3 hours, what is the average rate of change of its distance with respect to time?",Applying,,,,
+How would you calculate the average rate of change of a function f(x) from x = a to x = b?,Applying,,,,
+"Given a quadratic function f(x) = x^2, what is the average rate of change from x = 2 to x = 4?",Applying,,,,
+Evaluate the statement: 'The average rate of change of a function on an interval can be zero even if the function values are not constant on that interval.',Evaluating,,,,
+What does the instantaneous rate of change of a function at a point represent?,Understanding,,,,
+"If a car's speedometer reads a constant 60 km/h, what is the instantaneous rate of change of the car's position with respect to time?",Applying,,,,
+How would you estimate the instantaneous rate of change of a function at a point if you only have a graph of the function?,Analyzing,,,,
+What is the instantaneous rate of change of the function f(x) = x^2 at x = 3?,Applying,,,,
+"Given the position function s(t) = t^3 - 4t + 5, where s is in meters and t is in seconds, evaluate the instantaneous velocity of the object at t = 2 seconds.",Applying,,,,
+What is the basic formula for calculating the area under the curve y = f(x) from x = a to x = b?,Understanding,,,,
+Why do we use integration to find the area under a curve?,Understanding,,,,
+How would you approximate the area under the curve y = x^2 from x = 0 to x = 2 using rectangles?,Applying,,,,
+"If the curve y = x^2 is rotated around the x-axis, what geometric shape is formed?",Applying,,,,
+Evaluate the statement: 'The area under the curve y = 3x from x = 1 to x = 4 is equal to the area of a rectangle with width 3 and length 3.',Evaluating,,,,
+What is the basic formula to calculate the area under the curve y = f(x) from x = a to x = b?,Understanding,,,,
+How would you find the area under the curve y = x^2 between x = 1 and x = 3?,Applying,,,,
+"If the area under the curve y = 3x from x = 0 to x = 4 is represented by the integral, what is the integral expression?",Applying,,,,
+Evaluate the area under the curve y = 4x + 1 from x = 2 to x = 5.,Applying,,,,
+What is the basic formula to calculate the area under a curve y=f(x) from x=a to x=b?,Understanding,,,,
+Why do we use integration to find the area under a curve?,Understanding,,,,
+"If you are given the curve y=x^2 and the line y=4, how would you find the area of the region bounded by the curve and the line?",Applying,,,,
+How can you determine the exact points where the curve y=x^3 intersects the line y=8?,Applying,,,,
+Which method would you use to find the area of the region bounded by the parabola y=x^2 and the line y=2x?,Applying,,,,
+What is the basic formula to calculate the area under a curve y=f(x) from x=a to x=b?,Understanding,,,,
+How would you approximate the area under the curve y=x^2 between x=0 and x=2 using rectangles?,Applying,,,,
+"If the line y=3 intersects the curve y=x^2, what is the area of the region bounded by the curve and the line between x=0 and x=3?",Applying,,,,
+Evaluate the area of the region bounded by the curve y=x^3 and the x-axis from x=-1 to x=1.,Applying,,,,
+"If a car travels 150 kilometers in 3 hours, what is its average rate of change in terms of distance over time?",Applying,,,,
+How would you calculate the average rate of change of a function f(x) from x = a to x = b?,Applying,,,,
+"Given a graph of a function, how can you estimate the average rate of change between two points?",Applying,,,,
+Why is it important to understand the concept of average rate of change in real-world situations?,Understanding,,,,
+What does the average rate of change of a function measure?,Understanding,,,,
+"If a car travels 150 kilometers in 3 hours, what is its average rate of change in distance over time?",Applying,,,,
+How would you calculate the average rate of change of a function f(x) from x = 2 to x = 5?,Applying,,,,
+Why is the concept of average rate of change important in understanding real-world phenomena?,Analyzing,,,,
+Evaluate the statement: 'The average rate of change of a function is always constant.',Evaluating,,,,
+Which of the following is related to Mechanical?,Understanding,,,,
+Which of the following is used to write APIs?,Understanding,,,,

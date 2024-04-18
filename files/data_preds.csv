@@ -1,0 +1,501 @@
+Unnamed: 0,question,bloom_cat_name,bloom_category
+5293,Which of the following are the properties of NOT Gate?,Remembering,Understanding
+5294,What is the effect of increasing the frequency of an electromagnetic wave?,Application,Understanding
+5295,What is the truth table of NOT Gate?,Understanding,Understanding
+5296,How does the bandwidth of a transmission medium affect the quality of the transmitted signal?,Higher Order Thinking Skills,Understanding
+5297,How can you implement a NOT Gate using a transistor?,Application,Applying
+5298,Which of the following is NOT a factor that affects the propagation of electromagnetic waves?,Evaluation,Understanding
+5299,What are the applications of NOT Gate?,Higher Order Thinking Skills,Applying
+5300,Which of the following statements about NOT Gate is false?,Evaluation,Analyzing
+5301,Which of the following are the properties of OR Gate?,Remembering,Understanding
+5302,What are the applications of OR Gate?,Understanding,Applying
+5303,Compare OR gate with AND gate.,Higher Order Thinking Skills,Analyzing
+5304,Which of the following statements about OR gate is false?,Evaluation,Analyzing
+5305,Which of the following are the characteristics of AND Gate?,Understanding,Understanding
+5306,Which of the following are the applications of AND Gate?,Application,Applying
+5307,What is the truth table of an AND Gate?,Remembering,Understanding
+5308,Which of the following is the symbol of AND Gate?,Remembering,Understanding
+5309,What is the difference between AND Gate and OR Gate?,Evaluation,Understanding
+5310,Which of the following are the properties of NAND Gate?,Remembering,Understanding
+5311,Which of the following is a use of NAND gate?,Application,Understanding
+5312,What is the difference between NAND gate and NOR gate?,Higher Order Thinking Skills,Analyzing
+5313,Which of the following statements about NAND gate is false?,Evaluation,Analyzing
+5314,Which of the following are the properties of an Exclusive-OR Gate?,Remembering,Understanding
+5315,An Exclusive-OR Gate can be used to:,Application,Understanding
+5316,Which of the following is NOT a characteristic of an Exclusive-OR Gate?,Higher Order Thinking Skills,Analyzing
+5317,Which of the following statements about Exclusive-OR Gates is false?,Evaluation,Analyzing
+5318,Why is modulation necessary in communication systems?,Understanding,Understanding
+5319,Which type of modulation is used in AM radio broadcasting?,Application,Understanding
+5320,What are the advantages of using FM modulation over AM modulation?,Higher Order Thinking Skills,Analyzing
+5321,Which of the following is NOT a factor that affects the range of human hearing?,Evaluation,Analyzing
+5322,Which of the following are the types of Integrated Circuits?,Remembering,Understanding
+5323,What is the purpose of an integrated circuit?,Understanding,Understanding
+5324,Which of the following is NOT a type of integrated circuit packaging?,Application,Understanding
+5325,What is the difference between a monolithic integrated circuit and a hybrid integrated circuit?,Higher Order Thinking Skills,Analyzing
+5326,Which of the following is the most important factor to consider when choosing an integrated circuit?,Evaluation,Analyzing
+5327,Which of the following are advantages of Integrated Circuits?,Remembering,Understanding
+5328,What are the benefits of using Integrated Circuits?,Understanding,Understanding
+5329,In which applications are Integrated Circuits commonly used?,Application,Applying
+5330,What are the key factors to consider when designing Integrated Circuits?,Higher Order Thinking Skills,Analyzing
+5331,Which of the following statements about Integrated Circuits is true?,Evaluation,Understanding
+5332,What are the purposes of communication systems?,Remembering,Understanding
+5333,What are the different types of communication systems?,Understanding,Understanding
+5334,What are the advantages of using a communication system?,Application,Understanding
+5335,What are the challenges of designing a communication system?,Higher Order Thinking Skills,Analyzing
+5336,What are the future trends in communication systems?,Evaluation,Analyzing
+5337,Which of the following are basic components of a communication system?,Remembering,Understanding
+5338,Which of the following can be used as a channel in a communication system?,Application,Understanding
+5339,What is the difference between analog and digital signals?,Higher Order Thinking Skills,Understanding
+5340,Which of the following is NOT a factor that can affect the performance of a communication system?,Evaluation,Analyzing
+5341,What is the difference between amplitude modulation (AM) and frequency modulation (FM)?,Understanding,Understanding
+5342,Which of the following are functions of a transmitter?,Remembering,Understanding
+5343,What is the purpose of modulation in a transmitter?,Understanding,Understanding
+5344,Which of the following is NOT a type of modulation used in transmitters?,Application,Understanding
+5345,What are the advantages of using a high-power transmitter?,Higher Order Thinking Skills,Understanding
+5346,Which of the following factors should be considered when selecting a transmitter for a communication system?,Evaluation,Analyzing
+5347,What is the difference between an AM demodulator and an FM demodulator?,Understanding,Analyzing
+5348,What is the most common type of AM demodulator?,Application,Understanding
+5349,What are the advantages of using a superheterodyne receiver as an AM demodulator?,Higher Order Thinking Skills,Analyzing
+5350,What are the disadvantages of using a PLL demodulator as an AM demodulator?,Evaluation,Analyzing
+5351,Which of the following are the elements of a communication channel?,Remembering,Understanding
+5352,Which of the following are types of communication channels?,Application,Understanding
+5353,What are the factors that affect the performance of a communication channel?,Higher Order Thinking Skills,Analyzing
+5354,Which of the following are the advantages of using a communication channel?,Evaluation,Understanding
+5355,Which of the following are components of a communication system?,Remembering,Understanding
+5356,Which of the following are types of receivers?,Application,Understanding
+5357,What are the main functions of a receiver in a communication system?,Higher Order Thinking Skills,Understanding
+5358,Which of the following factors can affect the performance of a receiver?,Evaluation,Analyzing
+5359,Which of the following are the basic elements of a communication system?,Remembering,Understanding
+5360,What is the purpose of a transmitter in a communication system?,Understanding,Understanding
+5361,Which of the following can be used as a channel in a communication system?,Application,Understanding
+5362,What is the difference between analog and digital signals?,Higher Order Thinking Skills,Understanding
+5363,Which of the following is NOT a factor that affects the bandwidth of a communication channel?,Evaluation,Understanding
+5364,What are the advantages and disadvantages of using spread spectrum modulation in space communication?,Evaluation,Analyzing
+5365,Which of the following are the types of Transduction?,Remembering,Understanding
+5366,What is the purpose of Transduction?,Understanding,Understanding
+5367,Which of the following is an example of Transduction?,Application,Understanding
+5368,What are the advantages of Transduction?,Higher Order Thinking Skills,Understanding
+5369,What are the disadvantages of Transduction?,Evaluation,Analyzing
+5370,Which of the following are the basic elements of a communication system?,Remembering,Understanding
+5371,What is the purpose of modulation in a communication system?,Understanding,Understanding
+5372,Which of the following is an example of a digital modulation technique?,Application,Understanding
+5373,What is the difference between analog and digital signals?,Higher Order Thinking Skills,Understanding
+5374,Which of the following is NOT a factor that affects the bandwidth of a communication channel?,Evaluation,Understanding
+5375,Which of the following are the units of Transmitter Power?,Remembering,Remembering
+5376,Which of the following factors can affect Transmitter Power?,Application,Understanding
+5377,Why is Transmitter Power important in communication systems?,Higher Order Thinking Skills,Understanding
+5378,Which of the following statements about Transmitter Power is incorrect?,Evaluation,Analyzing
+5379,Which of the following are characteristics of speech signals?,Remembering,Understanding
+5380,What is the purpose of a speech coder?,Understanding,Understanding
+5381,Which of the following is NOT a type of speech coder?,Application,Understanding
+5382,What are the advantages of using a speech coder?,Higher Order Thinking Skills,Understanding
+5383,What are the disadvantages of using a speech coder?,Evaluation,Analyzing
+5384,Which of the following are characteristics of TV signals?,Remembering,Understanding
+5385,What are the advantages of using a digital TV signal over an analog TV signal?,Higher Order Thinking Skills,Understanding
+5386,What are the disadvantages of using a digital TV signal over an analog TV signal?,Evaluation,Analyzing
+5387,Which of the following are factors that affect the bandwidth of a transmission medium?,Remembering,Understanding
+5388,Which of the following techniques can be used to increase the bandwidth of a transmission medium?,Application,Applying
+5389,How does the bandwidth of a transmission medium affect the quality of the transmitted signal?,Higher Order Thinking Skills,Understanding
+5390,Which of the following is NOT a disadvantage of using a higher bandwidth transmission medium?,Evaluation,Analyzing
+5391,Which of the following is NOT a characteristic of a cellular network?,Understanding,Understanding
+5392,What is the purpose of a base station in a cellular network?,Application,Understanding
+5393,How does a mobile device determine which cell to connect to?,Higher Order Thinking Skills,Understanding
+5394,What are the advantages of using a cellular network over a traditional wired network?,Evaluation,Understanding
+5395,Which of the following are the factors that affect the bandwidth of a transmission medium?,Remembering,Understanding
+5396,What is the relationship between bandwidth and data rate?,Understanding,Understanding
+5397,Which of the following techniques can be used to increase the bandwidth of a transmission medium?,Application,Understanding
+5398,Which of the following statements about the bandwidth of a transmission medium is false?,Evaluation,Analyzing
+5399,Which of the following are the effects of atmospheric absorption?,Remembering,Understanding
+5400,How can atmospheric absorption be mitigated?,Application,Analyzing
+5401,What are the consequences of atmospheric absorption in communication systems?,Higher Order Thinking Skills,Analyzing
+5402,Which of the following is NOT a method to compensate for atmospheric absorption?,Evaluation,Understanding
+5403,Which of the following are factors that affect the bandwidth of a transmission medium?,Remembering,Understanding
+5404,What is the relationship between bandwidth and data rate?,Understanding,Understanding
+5405,Which of the following techniques can be used to increase the bandwidth of a transmission medium?,Application,Understanding
+5406,How does the bandwidth of a transmission medium affect the quality of the transmitted signal?,Higher Order Thinking Skills,Analyzing
+5407,Which of the following statements about bandwidth is true?,Evaluation,Understanding
+5408,Which of the following are characteristics of Ground Wave Propagation?,Remembering,Understanding
+5409,What are the factors that affect Ground Wave Propagation?,Understanding,Understanding
+5410,Which of the following applications use Ground Wave Propagation?,Application,Understanding
+5411,How can the range of Ground Wave Propagation be extended?,Higher Order Thinking Skills,Applying
+5412,Which of the following statements about Ground Wave Propagation is incorrect?,Evaluation,Analyzing
+5413,"What is the relationship between the SI units of length, mass, and time?",Higher Order Thinking Skills,Understanding
+5414,Which of the following is the best definition of the SI system?,Evaluation,Understanding
+5415,Which of the following are characteristics of Sky Wave Propagation?,Remembering,Understanding
+5416,What are the advantages of Sky Wave Propagation?,Understanding,Understanding
+5417,Which of the following factors affect Sky Wave Propagation?,Application,Understanding
+5418,What are the limitations of Sky Wave Propagation?,Higher Order Thinking Skills,Analyzing
+5419,Which of the following is NOT a disadvantage of Sky Wave Propagation?,Evaluation,Analyzing
+5420,Which of the following are the factors affecting space wave propagation?,Remembering,Understanding
+5421,What is the main advantage of using space wave propagation?,Understanding,Understanding
+5422,Which of the following techniques can be used to improve space wave propagation?,Application,Applying
+5423,What are the limitations of space wave propagation?,Higher Order Thinking Skills,Analyzing
+5424,Which of the following is the best choice for a communication system that requires long-distance communication and is not affected by obstacles?,Evaluation,Analyzing
+5425,Which of the following are within the range of human hearing?,Remembering,Understanding
+5426,What is the purpose of modulation in communication systems?,Understanding,Understanding
+5427,Which of the following is an example of an amplitude modulation technique?,Application,Understanding
+5428,Which of the following factors can affect the range of human hearing?,Higher Order Thinking Skills,Understanding
+5429,Which of the following is the most important factor to consider when choosing a modulation technique for a communication system?,Evaluation,Analyzing
+5430,Which of the following are reasons for modulation?,Remembering,Understanding
+5431,What are the benefits of modulation?,Understanding,Understanding
+5432,Which modulation technique is used to transmit digital data?,Application,Understanding
+5433,What are the key elements of a communication system?,Higher Order Thinking Skills,Understanding
+5434,Which of the following is NOT a factor that affects the choice of modulation technique?,Evaluation,Analyzing
+5435,Which of the following is the best method for estimating the distance between two stars that are very far apart?,Evaluation,Analyzing
+5436,Which of the following are advantages of modulation?,Remembering,Understanding
+5437,What are the benefits of modulation?,Understanding,Understanding
+5438,How does modulation improve communication?,Higher Order Thinking Skills,Understanding
+5439,Which of the following is the most important advantage of modulation?,Evaluation,Analyzing
+5440,Which of the following statements about units of length is false?,Evaluation,Analyzing
+5441,Which of the following are the steps involved in the production of an Amplitude Modulated Wave?,Remembering,Understanding
+5442,What is the purpose of modulating a carrier wave?,Understanding,Understanding
+5443,Which of the following factors affect the modulation index of an AM wave?,Application,Understanding
+5444,What are the advantages of using Amplitude Modulation?,Higher Order Thinking Skills,Understanding
+5445,Which of the following statements about Amplitude Modulation is false?,Evaluation,Analyzing
+5446,Which of the following is a way to improve the precision of a measurement?,Evaluation,Applying
+5447,Which of the following are methods to detect Amplitude Modulated Wave?,Remembering,Understanding
+5448,What is the purpose of an envelope detector in AM detection?,Understanding,Understanding
+5449,Which of the following is an advantage of using a square law detector for AM detection?,Application,Understanding
+5450,What is the role of a slope detector in AM detection?,Higher Order Thinking Skills,Understanding
+5451,Which of the following factors can affect the performance of an AM detector?,Evaluation,Understanding
+5452,Which of the following are the types of modulators?,Remembering,Understanding
+5453,Which of the following is NOT a type of modulation?,Application,Understanding
+5454,What are the advantages of using modulation?,Higher Order Thinking Skills,Understanding
+5455,Which of the following is the most important factor to consider when choosing a modulation technique?,Evaluation,Analyzing
+5456,Which of the following are types of demodulators?,Remembering,Understanding
+5457,Which of the following is NOT a type of demodulator?,Application,Understanding
+5458,Which of the following factors can affect the performance of a demodulator?,Higher Order Thinking Skills,Analyzing
+5459,Which of the following is an advantage of using a demodulator?,Evaluation,Understanding
+5460,Which of the following are advantages of satellite communication?,Remembering,Understanding
+5461,What are the different types of satellite orbits?,Understanding,Understanding
+5462,Which of the following factors affect satellite communication?,Application,Understanding
+5463,What are the applications of satellite communication?,Higher Order Thinking Skills,Understanding
+5464,Which of the following statements about satellite communication is true?,Evaluation,Understanding
+5465,Which of the following are characteristics of orbits?,Remembering,Understanding
+5466,What is the relationship between the period of an orbit and the semi-major axis of the orbit?,Understanding,Understanding
+5467,What is the effect of increasing the eccentricity of an orbit?,Application,Understanding
+5468,What are the different types of orbits that a satellite can have around a planet?,Higher Order Thinking Skills,Understanding
+5469,Which of the following factors can affect the stability of an orbit?,Evaluation,Analyzing
+5470,Which of the following are advantages of modulation in space communication?,Remembering,Understanding
+5471,What are the different types of modulation techniques used in space communication?,Understanding,Understanding
+5472,Which modulation technique is commonly used for transmitting digital data in space communication?,Application,Understanding
+5473,How does modulation affect the bandwidth of the transmitted signal?,Higher Order Thinking Skills,Analyzing
+5474,Which of the following factors should be considered when selecting a modulation technique for space communication?,Evaluation,Analyzing
+5475,Which of the following objects has the greatest mass?,Higher Order Thinking Skills,Understanding
+5476,Which of the following statements about mass is true?,Evaluation,Understanding
+5477,Which of the following are characteristics of Geostationary Satellites?,Remembering,Understanding
+5478,What are the advantages of using Geostationary Satellites?,Understanding,Understanding
+5479,Which of the following is NOT a disadvantage of using Geostationary Satellites?,Application,Analyzing
+5480,How are Geostationary Satellites used in communication systems?,Higher Order Thinking Skills,Applying
+5481,What are the potential risks associated with using Geostationary Satellites?,Evaluation,Analyzing
+5482,Which of the following are characteristics of Polar Satellites?,Remembering,Understanding
+5483,Which of the following applications use Polar Satellites?,Application,Understanding
+5484,What are some of the limitations of Polar Satellites?,Higher Order Thinking Skills,Analyzing
+5485,How do Polar Satellites differ from Geostationary Satellites?,Evaluation,Analyzing
+5486,What is the relationship between frequency and period?,Higher Order Thinking Skills,Understanding
+5487,Which of the following is the best way to measure the time it takes for a pendulum to swing back and forth?,Evaluation,Applying
+5488,Which of the following are characteristics of satellite orbits?,Remembering,Understanding
+5489,What are the different types of satellite orbits?,Understanding,Understanding
+5490,Which of the following factors affect the stability of a satellite orbit?,Application,Analyzing
+5491,What are the advantages of using geostationary orbits for communication satellites?,Higher Order Thinking Skills,Understanding
+5492,Which of the following statements about satellite orbits is false?,Evaluation,Analyzing
+5493,What is the principle behind the operation of an atomic clock?,Understanding,Understanding
+5494,How are atomic clocks used in everyday life?,Application,Understanding
+5495,What are the advantages of using atomic clocks over other types of clocks?,Higher Order Thinking Skills,Analyzing
+5496,What are the limitations of atomic clocks?,Evaluation,Analyzing
+5497,Which of the following are the basic components of the Internet?,Remembering,Understanding
+5498,What is the purpose of a router?,Understanding,Understanding
+5499,Which of the following is NOT a type of server?,Application,Understanding
+5500,What is the difference between a router and a switch?,Higher Order Thinking Skills,Understanding
+5501,Which of the following is the most important factor to consider when choosing an Internet service provider?,Evaluation,Evaluating
+5502,Which of the following are advantages of using the Internet as a communication medium?,Remembering,Understanding
+5503,What are some of the ways in which the Internet can be used for communication?,Understanding,Understanding
+5504,How can the Internet be used to facilitate communication between businesses and their customers?,Application,Applying
+5505,What are some of the challenges associated with using the Internet as a communication medium?,Higher Order Thinking Skills,Analyzing
+5506,How can the effectiveness of Internet-based communication be improved?,Evaluation,Evaluating
+5507,Which of the following are characteristics of a cellular system?,Remembering,Understanding
+5508,What is the purpose of a cell site?,Understanding,Understanding
+5509,Which of the following is NOT a benefit of cellular systems?,Application,Understanding
+5510,What are the key factors that affect the performance of a cellular system?,Higher Order Thinking Skills,Analyzing
+5511,Which of the following is the most important consideration when designing a cellular system?,Evaluation,Analyzing
+5512,Which of the following are the advantages of mobile phone communication systems?,Remembering,Understanding
+5513,What are the key components of a mobile phone communication system?,Understanding,Understanding
+5514,How does a mobile phone connect to a network?,Application,Understanding
+5515,What are the different types of mobile phone networks?,Higher Order Thinking Skills,Understanding
+5516,Which of the following is NOT a benefit of using mobile phone communication systems?,Evaluation,Evaluating
+5517,How can you minimize human error in measurement?,Application,Applying
+5518,What is the difference between a systematic error and a random error?,Higher Order Thinking Skills,Understanding
+5519,How can you determine if an error is systematic or random?,Evaluation,Analyzing
+5520,Which of the following are the advantages of using standard units?,Remembering,Understanding
+5521,What is the purpose of using units in measurements?,Understanding,Understanding
+5522,How can units be used to convert between different measurement systems?,Application,Applying
+5523,Why is it important to use consistent units throughout a scientific experiment?,Higher Order Thinking Skills,Understanding
+5524,Which of the following is NOT a benefit of using standard units in scientific research?,Evaluation,Evaluating
+5525,How many significant figures are in the number 1.200?,Understanding,Understanding
+5526,What is the correct number of significant figures in the result of the following calculation: 1.23 + 0.0045?,Application,Understanding
+5527,Which of the following are the fundamental quantities?,Remembering,Understanding
+5528,Which of the following is NOT a derived quantity?,Application,Understanding
+5529,"What is the relationship between the SI units of length, mass, and time?",Higher Order Thinking Skills,Understanding
+5530,Which of the following is the most accurate way to measure the length of a pencil?,Evaluation,Applying
+5531,Which of the following are SI units?,Remembering,Understanding
+5532,What is the SI unit of length?,Understanding,Remembering
+5533,Which of the following is NOT an SI unit?,Application,Understanding
+5534,Which of the following is the SI unit of temperature?,Evaluation,Remembering
+5535,Which of the following are fundamental units in the International System of Units (SI)?,Remembering,Understanding
+5536,What is the SI unit of length?,Understanding,Remembering
+5537,Which of the following is NOT a derived unit in the SI system?,Application,Understanding
+5538,Which of the following is the SI unit of electric current?,Higher Order Thinking Skills,Remembering
+5539,Which of the following is the SI unit of temperature?,Evaluation,Remembering
+5540,Which of the following are derived units?,Remembering,Understanding
+5541,A body is moving with a velocity of 10 m/s. What will be its displacement after 5 seconds?,Application,Applying
+5542,Which of the following are base units?,Understanding,Understanding
+5543,Which of the following is the correct dimensional formula of energy?,Higher Order Thinking Skills,Understanding
+5544,Which of the following is the SI unit of speed?,Application,Remembering
+5545,Which of the following is the SI unit of force?,Higher Order Thinking Skills,Remembering
+5546,Which of the following is the SI unit of energy?,Evaluation,Remembering
+5547,Which of the following are supplementary units in the International System of Units (SI)?,Remembering,Understanding
+5548,Which of the following are advantages of using the International System of Units (SI)?,Understanding,Understanding
+5549,Which of the following is NOT a base unit in the International System of Units (SI)?,Application,Understanding
+5550,Which of the following is a derived unit in the International System of Units (SI)?,Higher Order Thinking Skills,Understanding
+5551,Which of the following is a disadvantage of using the International System of Units (SI)?,Evaluation,Analyzing
+5552,Which of the following are used to measure large distances?,Remembering,Understanding
+5553,What is the relationship between a kilometer and a mile?,Understanding,Understanding
+5554,Which of the following is the most appropriate unit to measure the distance to the nearest star?,Application,Understanding
+5555,Which of the following statements about measuring large distances is true?,Higher Order Thinking Skills,Understanding
+5556,Which of the following is the best way to measure the distance to a distant object?,Evaluation,Understanding
+5557,Which of the following are methods for estimating very small distances?,Remembering,Understanding
+5558,What is the principle behind using a microscope to estimate very small distances?,Understanding,Understanding
+5559,Which of the following is the most accurate method for estimating very small distances?,Application,Understanding
+5560,How can you use a vernier caliper to estimate the thickness of a piece of paper?,Higher Order Thinking Skills,Applying
+5561,What is the difference between dimensional analysis and unit conversion?,Higher Order Thinking Skills,Understanding
+5562,Which of the following are units of length?,Remembering,Understanding
+5563,Which of the following is the smallest unit of length?,Understanding,Remembering
+5564,Which of the following is the most appropriate unit of length to measure the distance between two cities?,Application,Understanding
+5565,Which of the following is the most accurate unit of length?,Evaluation,Understanding
+5566,What is the difference between distance and displacement?,Understanding,Understanding
+5567,A car travels 100 km in 2 hours. What is the average speed of the car?,Application,Applying
+5568,A ball is thrown vertically upward. What is the acceleration of the ball at the highest point of its trajectory?,Higher Order Thinking Skills,Understanding
+5569,Which of the following is NOT a factor that affects the motion of an object?,Evaluation,Understanding
+5570,Which of the following are the characteristics of an accurate measuring instrument?,Remembering,Analyzing
+5571,Which of the following are the characteristics of a precise measuring instrument?,Understanding,Analyzing
+5572,Which of the following factors can affect the accuracy of a measuring instrument?,Application,Analyzing
+5573,Which of the following factors can affect the precision of a measuring instrument?,Higher Order Thinking Skills,Analyzing
+5574,Which of the following is the best way to improve the accuracy and precision of a measuring instrument?,Evaluation,Analyzing
+5575,Which of the following are the parts of a Vernier caliper?,Remembering,Understanding
+5576,What is the least count of a Vernier caliper?,Understanding,Remembering
+5577,How do you use a Vernier caliper to measure the length of an object?,Application,Applying
+5578,What are the advantages of using a Vernier caliper over a ruler?,Higher Order Thinking Skills,Applying
+5579,What are the limitations of using a Vernier caliper?,Evaluation,Analyzing
+5580,Which of the following are the parts of a screw gauge?,Remembering,Understanding
+5581,How do you use a screw gauge to measure the diameter of an object?,Application,Applying
+5582,What are the advantages of using a screw gauge over a ruler?,Higher Order Thinking Skills,Applying
+5583,What are the limitations of using a screw gauge?,Evaluation,Analyzing
+5584,Which of the following statements about inertia and mass are correct?,Remembering,Analyzing
+5585,A car with a mass of 1000 kg is traveling at a speed of 10 m/s. What is the car's momentum?,Application,Applying
+5586,Which of the following factors does NOT affect the inertia of an object?,Higher Order Thinking Skills,Analyzing
+5587,Which of the following statements about the relationship between inertia and safety is NOT true?,Evaluation,Analyzing
+5588,Which of the following are true about atomic and molecular masses?,Remembering,Understanding
+5589,How can atomic and molecular masses be used to solve chemistry problems?,Application,Applying
+5590,What are some of the limitations of using atomic and molecular masses?,Higher Order Thinking Skills,Analyzing
+5591,How can the limitations of using atomic and molecular masses be overcome?,Evaluation,Analyzing
+5592,Which of the following are the units of mass?,Remembering,Remembering
+5593,Which of the following is the smallest unit of mass?,Understanding,Remembering
+5594,Which of the following is the largest unit of mass?,Understanding,Remembering
+5595,Which of the following is the most common unit of mass used in the United States?,Understanding,Remembering
+5596,Which of the following is the most accurate unit of mass?,Evaluation,Understanding
+5597,Which of the following are the units of mass?,Remembering,Remembering
+5598,What is the relationship between a kilogram and a gram?,Understanding,Understanding
+5599,What are the advantages of using a digital scale over an analog scale?,Higher Order Thinking Skills,Applying
+5600,Which of the following is the best way to calibrate a balance scale?,Evaluation,Applying
+5601,Which of the following are units of time?,Remembering,Understanding
+5602,"What is the relationship between a second, a minute, and an hour?",Understanding,Understanding
+5603,How many seconds are there in 1 hour and 30 minutes?,Application,Applying
+5604,Which of the following is the most precise unit of time?,Higher Order Thinking Skills,Understanding
+5605,Which of the following is the best way to measure the time it takes to run a race?,Evaluation,Applying
+5606,Which of the following are advantages of atomic clocks?,Remembering,Understanding
+5607,What are the applications of atomic clocks?,Understanding,Understanding
+5608,How do atomic clocks measure time?,Application,Understanding
+5609,Which of the following statements about atomic clocks is false?,Evaluation,Analyzing
+5610,Which of the following are true about absolute error?,Remembering,Understanding
+5611,A car starts from rest and accelerates at a constant rate of 5 m/s^2 for 10 seconds. What is the final velocity of the car?,Application,Applying
+5612,Which of the following can affect the absolute error of a measurement?,Understanding,Analyzing
+5613,How can you reduce the absolute error of a measurement?,Application,Applying
+5614,Which of the following is NOT a type of error that can affect a measurement?,Higher Order Thinking Skills,Understanding
+5615,Which of the following is the most important factor to consider when choosing an instrument to measure a particular value?,Evaluation,Analyzing
+5616,A car starts from rest and accelerates at a constant rate of 5 m/s^2. What is its velocity after 10 seconds?,Application,Applying
+5617,Which of the following are true about relative error?,Remembering,Understanding
+5618,Which of the following can affect the relative error of a measurement?,Understanding,Analyzing
+5619,A student measures the length of a rod using a ruler and obtains a value of 10.2 cm. The true length of the rod is 10.0 cm. What is the relative error of the measurement?,Application,Applying
+5620,Which of the following statements about relative error is true?,Higher Order Thinking Skills,Understanding
+5621,A student measures the mass of an object using a balance and obtains a value of 100.2 g. The true mass of the object is 100.0 g. What is the relative error of the measurement?,Evaluation,Applying
+5622,A car starts from rest and accelerates uniformly at 2 m/s^2. What is its velocity after 10 seconds?,Application,Applying
+5623,A ball is thrown vertically upward with a velocity of 10 m/s. What is its maximum height?,Evaluation,Understanding
+5624,Which of the following are the sources of errors in measurement?,Remembering,Analyzing
+5625,How can you improve the accuracy of a measurement?,Application,Analyzing
+5626,What are the different types of errors in measurement?,Higher Order Thinking Skills,Understanding
+5627,Which of the following is NOT a way to reduce errors in measurement?,Evaluation,Analyzing
+5628,A car starts from rest and accelerates at a constant rate of 5 m/s^2. What is its velocity after 10 seconds?,Application,Applying
+5629,Which of the following are the types of errors?,Remembering,Understanding
+5630,Which of the following can affect the accuracy of a measurement?,Application,Analyzing
+5631,Which of the following is NOT a way to improve the accuracy of a measurement?,Higher Order Thinking Skills,Analyzing
+5632,Which of the following is the most important factor to consider when choosing a measuring instrument?,Evaluation,Analyzing
+5633,Which of the following are rules for determining significant figures?,Remembering,Understanding
+5634,How many significant figures are in the number 0.00250?,Application,Understanding
+5635,Which of the following numbers has the least significant figures?,Evaluation,Understanding
+5636,Which of the following are true about significant figures?,Remembering,Understanding
+5637,What is the correct way to add the following numbers: 12.34 and 5.678?,Application,Applying
+5638,Which of the following is the best estimate of the mass of a car?,Higher Order Thinking Skills,Applying
+5639,Which of the following are the dimensions of force?,Remembering,Understanding
+5640,Which of the following are the dimensions of energy?,Understanding,Understanding
+5641,Which of the following is the correct dimensional formula for the coefficient of viscosity?,Application,Understanding
+5642,Which of the following are the dimensions of power?,Higher Order Thinking Skills,Understanding
+5643,Which of the following is the correct dimensional formula for the gravitational constant?,Evaluation,Understanding
+5644,Which of the following are the dimensions of force?,Remembering,Understanding
+5645,Which of the following are the dimensions of energy?,Understanding,Understanding
+5646,Which of the following are the dimensions of power?,Application,Understanding
+5647,Which of the following are the dimensions of momentum?,Higher Order Thinking Skills,Understanding
+5648,Which of the following are the dimensions of acceleration?,Evaluation,Understanding
+5649,What is the formula for the integral of x^n?,Application,Understanding
+5650,Which of the following are the dimensions of velocity?,Remembering,Understanding
+5651,Which of the following are the dimensions of acceleration?,Understanding,Understanding
+5652,Which of the following are the dimensions of force?,Application,Understanding
+5653,Which of the following are the dimensions of energy?,Higher Order Thinking Skills,Understanding
+5654,Which of the following are the dimensions of power?,Evaluation,Understanding
+5655,Which of the following are applications of dimensional analysis?,Remembering,Understanding
+5656,What is the purpose of dimensional analysis?,Understanding,Understanding
+5657,How can dimensional analysis be used to check the homogeneity of equations?,Application,Analyzing
+5658,What are the limitations of dimensional analysis?,Higher Order Thinking Skills,Analyzing
+5659,Which of the following is NOT an advantage of using dimensional analysis?,Evaluation,Analyzing
+5660,Which of the following are true about dimensional consistency of equations?,Remembering,Understanding
+5661,What are the steps involved in checking the dimensional consistency of an equation?,Understanding,Analyzing
+5662,How can dimensional analysis be used to derive new equations?,Application,Analyzing
+5663,What are the limitations of dimensional analysis?,Higher Order Thinking Skills,Analyzing
+5664,Which of the following is the best way to evaluate the usefulness of dimensional analysis?,Evaluation,Evaluating
+5665,Which of the following are the advantages of dimensional analysis?,Understanding,Understanding
+5666,Which of the following are the limitations of dimensional analysis?,Understanding,Analyzing
+5667,Which of the following are the applications of dimensional analysis?,Understanding,Understanding
+5668,Which of the following are the advantages of using the SI system of units?,Understanding,Understanding
+5669,Which of the following are the disadvantages of using the SI system of units?,Understanding,Analyzing
+5670,What is the sum of the vectors A = 3i + 4j and B = 5i - 2j?,Remembering,Applying
+5671,Which of the following are true about motion?,Remembering,Understanding
+5672,What are the different types of motion?,Understanding,Understanding
+5673,Which of the following is NOT a factor that can affect motion?,Application,Analyzing
+5674,What is the relationship between speed and velocity?,Higher Order Thinking Skills,Understanding
+5675,Which of the following statements about motion is false?,Evaluation,Analyzing
+5676,A car is traveling at a speed of 20 m/s. What is the car's velocity if it is traveling in the positive x-direction?,Higher Order Thinking Skills,Applying
+5677,A ball is thrown into the air. What is the ball's acceleration due to gravity?,Evaluation,Understanding
+5678,Which of the following are types of motion?,Remembering,Understanding
+5679,What is the difference between linear and circular motion?,Understanding,Understanding
+5680,Which of the following is an example of periodic motion?,Application,Understanding
+5681,Which of the following is NOT a type of motion?,Higher Order Thinking Skills,Understanding
+5682,Which of the following is the most accurate description of motion?,Evaluation,Understanding
+5683,"Which of the following statements about position, path length and displacement are correct?",Remembering,Analyzing
+5684,Which of the following is NOT a factor that affects the displacement of an object?,Understanding,Analyzing
+5685,"A ball is thrown vertically upward. At the highest point of its trajectory, which of the following is true?",Higher Order Thinking Skills,Understanding
+5686,Which of the following statements about displacement is false?,Evaluation,Analyzing
+5687,What is the cross product of two vectors?,Remembering,Understanding
+5688,What is the magnitude of the cross product of two vectors?,Understanding,Understanding
+5689,What is the direction of the cross product of two vectors?,Application,Understanding
+5690,What is the cross product of two vectors that are parallel?,Higher Order Thinking Skills,Analyzing
+5691,What is the cross product of two vectors that are perpendicular?,Evaluation,Understanding
+5692,Which of the following statements about path length is/are true?,Remembering,Analyzing
+5693,Which of the following is/are the units of path length?,Understanding,Understanding
+5694,A car travels 100 km in 2 hours. What is the average speed of the car?,Application,Applying
+5695,A ball is thrown vertically upwards. Which of the following statements about the path length of the ball is/are true?,Higher Order Thinking Skills,Understanding
+5696,Which of the following statements about the relationship between path length and displacement is/are true?,Evaluation,Analyzing
+5697,What is the magnitude of the displacement vector of a particle that moves from point A to point B?,Understanding,Understanding
+5698,A particle moves from point A to point B and then back to point A. What is the net displacement of the particle?,Application,Understanding
+5699,A particle moves in a circle of radius R. What is the magnitude of the displacement vector of the particle after it has moved through an angle of ??,Higher Order Thinking Skills,Applying
+5700,"A particle moves in a straight line from point A to point B. The displacement vector of the particle is d. If the particle is now moved from point B to point C, such that BC = 2AB, what is the displacement vector of the particle from A to C?",Evaluation,Applying
+5701,Which of the following statements about displacement are correct?,Remembering,Analyzing
+5702,Which of the following is NOT a characteristic of displacement?,Understanding,Analyzing
+5703,A car travels 100 km north and then 50 km south. What is the car's displacement?,Application,Applying
+5704,"A ball is thrown vertically upward. At the highest point of its trajectory, what is the ball's displacement?",Higher Order Thinking Skills,Understanding
+5705,Which of the following statements about displacement is false?,Evaluation,Analyzing
+5706,Which of the following statements about average velocity are correct?,Remembering,Analyzing
+5707,Which of the following graphs represents the motion of an object with a constant average velocity?,Higher Order Thinking Skills,Understanding
+5708,Which of the following statements about average velocity is incorrect?,Evaluation,Analyzing
+5709,Which of the following statements about average speed are correct?,Remembering,Understanding
+5710,Which of the following factors affect the average speed of an object?,Understanding,Analyzing
+5711,A car travels 100 km in 2 hours and then 100 km in 3 hours. What is the average speed of the car?,Application,Applying
+5712,A train travels from city A to city B at a speed of 60 km/h and returns from city B to city A at a speed of 80 km/h. What is the average speed of the train for the round trip?,Higher Order Thinking Skills,Applying
+5713,Which of the following statements about average speed is incorrect?,Evaluation,Analyzing
+5714,Which of the following statements about the relation between velocity and speed is/are correct?,Remembering,Analyzing
+5715,A car travels 100 km in 2 hours. What is the average speed of the car?,Application,Applying
+5716,"A ball is thrown vertically upward. At the highest point of its trajectory, which of the following statements about the ball's velocity and speed is/are correct?",Higher Order Thinking Skills,Analyzing
+5717,Which of the following statements about the relation between velocity and speed is/are incorrect?,Evaluation,Analyzing
+5718,Which of the following is/are the formula(s) for instantaneous velocity?,Remembering,Understanding
+5719,Which of the following is/are the unit(s) of instantaneous velocity?,Understanding,Understanding
+5720,Which of the following is/are the application(s) of instantaneous velocity?,Application,Applying
+5721,Which of the following is/are the limitation(s) of instantaneous velocity?,Higher Order Thinking Skills,Analyzing
+5722,Which of the following is/are the advantage(s) of instantaneous velocity?,Evaluation,Understanding
+5723,Which of the following is/are the formula(s) for instantaneous speed?,Remembering,Understanding
+5724,What is the difference between instantaneous speed and average speed?,Understanding,Understanding
+5725,A car travels 100 km in 2 hours. What is the instantaneous speed of the car?,Application,Applying
+5726,Which of the following is/are the factors that affect instantaneous speed?,Higher Order Thinking Skills,Understanding
+5727,Which of the following is/are the applications of instantaneous speed?,Evaluation,Applying
+5728,Which of the following are true about instantaneous acceleration?,Remembering,Analyzing
+5729,What is the relationship between instantaneous acceleration and the velocity-time graph?,Understanding,Analyzing
+5730,A car is traveling at a constant speed of 10 m/s. What is its instantaneous acceleration?,Application,Understanding
+5731,A ball is thrown vertically upward. What is its instantaneous acceleration at the highest point of its trajectory?,Higher Order Thinking Skills,Understanding
+5732,Which of the following is NOT a unit of acceleration?,Evaluation,Understanding
+5733,A car is moving at a speed of 60 km/h. A cyclist is moving in the opposite direction at a speed of 20 km/h. What is the relative velocity of the cyclist with respect to the car?,Higher Order Thinking Skills,Applying
+5734,Which of the following is NOT a factor that affects relative velocity?,Evaluation,Analyzing
+5735,Which of the following equations of motion is/are correct?,Remembering,Analyzing
+5736,What do the symbols in the equation v = u + at represent?,Understanding,Understanding
+5737,A car starts from rest and accelerates uniformly at 2 m/s^2. What is its velocity after 10 seconds?,Application,Applying
+5738,Which of the following statements about the equations of motion for uniformly accelerated motion is/are true?,Higher Order Thinking Skills,Understanding
+5739,Which of the following is/are the limitations of the equations of motion for uniformly accelerated motion?,Evaluation,Analyzing
+5740,Which of the following equations of motion is/are applicable for an object in uniform acceleration?,Remembering,Applying
+5741,What do the following terms represent in the equation of motion: v = u + at?,Understanding,Understanding
+5742,A car starts from rest and accelerates uniformly at 2 m/s^2. What is its velocity after 10 seconds?,Application,Applying
+5743,An object is thrown vertically upward with a velocity of 10 m/s. What is its maximum height?,Higher Order Thinking Skills,Applying
+5744,Which of the following statements about the motion of an object in a straight line with constant acceleration is/are true?,Evaluation,Analyzing
+5745,A boat is moving upstream in a river with a speed of 5 m/s. The speed of the river is 2 m/s. What is the speed of the boat relative to the shore?,Application,Applying
+5746,A boat is moving downstream in a river with a speed of 5 m/s. The speed of the river is 2 m/s. What is the speed of the boat relative to the shore?,Higher Order Thinking Skills,Applying
+5747,A boat is moving upstream in a river with a speed of 5 m/s. The speed of the river is 2 m/s. What is the time taken by the boat to travel a distance of 100 m upstream?,Evaluation,Applying
+5748,Which of the following statements about relative velocity are correct?,Remembering,Analyzing
+5749,Which of the following are applications of relative velocity?,Understanding,Applying
+5750,A car is traveling at a speed of 60 km/h relative to the ground. A passenger in the car is walking at a speed of 5 km/h relative to the car. What is the passenger's speed relative to the ground?,Application,Applying
+5751,A boat is traveling upstream in a river at a speed of 10 km/h. The river is flowing at a speed of 5 km/h. What is the boat's speed relative to the shore?,Higher Order Thinking Skills,Applying
+5752,Which of the following statements about relative velocity is incorrect?,Evaluation,Analyzing
+5753,A man is walking on a moving train in the same direction as the train. What is the relative velocity of the man with respect to the train?,Understanding,Applying
+5754,A man is walking on a moving train in the opposite direction of the train. What is the relative velocity of the man with respect to the train?,Application,Applying
+5755,A man is standing on a moving platform. What is the relative velocity of the man with respect to the platform?,Higher Order Thinking Skills,Understanding
+5756,A man is walking on a moving sidewalk. What is the relative velocity of the man with respect to the sidewalk?,Evaluation,Understanding
+5757,Which of the following statements about relative velocity in one dimension are correct?,Remembering,Analyzing
+5758,What is the relative velocity of a car traveling at 60 km/h relative to a truck traveling at 40 km/h in the same direction?,Understanding,Applying
+5759,A boat is traveling upstream in a river with a current of 5 km/h. The boat's speed in still water is 10 km/h. What is the boat's speed relative to the riverbank?,Application,Applying
+5760,A train is traveling at 80 km/h. A bird is flying in the opposite direction at 20 km/h. What is the relative velocity of the bird relative to the train?,Higher Order Thinking Skills,Applying
+5761,Which of the following statements about relative velocity is false?,Evaluation,Analyzing
+5762,An object with a large mass will have:,Application,Understanding
+5763,Which of the following is NOT a factor that affects the inertia of an object?,Higher Order Thinking Skills,Understanding
+5764,Which of the following statements about inertia is true?,Evaluation,Understanding
+5765,Which of the following are the applications of differentiation?,Remembering,Applying
+5766,Which of the following are the basic concepts of integration?,Remembering,Understanding
+5767,What is the relationship between differentiation and integration?,Understanding,Analyzing
+5768,How can integration be used to find the area under a curve?,Application,Applying
+5769,What are some of the applications of integration?,Higher Order Thinking Skills,Applying
+5770,Which of the following is NOT a property of integration?,Evaluation,Analyzing
+5771,Which of the following are true about the use of differentiation and integration in motion analysis?,Remembering,Analyzing
+5772,What are the different ways that differentiation and integration can be used to analyze motion?,Understanding,Analyzing
+5773,A car is traveling at a constant speed of 60 km/h. What is the distance traveled by the car in 2 hours?,Application,Applying
+5774,Which of the following statements about the use of differentiation and integration in motion analysis is false?,Evaluation,Evaluating
+5775,Which of the following are examples of scalar quantities?,Remembering,Understanding
+5776,Which of the following are examples of vector quantities?,Understanding,Understanding
+5777,A car travels 100 km in 2 hours. What is the car's average speed?,Application,Applying
+5778,"A ball is thrown into the air. At the highest point of its trajectory, which of the following is true?",Higher Order Thinking Skills,Understanding
+5779,Which of the following are true about vectors?,Remembering,Understanding
+5780,How does Newton's third law of motion apply to a person walking?,Application,Applying
+5781,What is the relationship between the action and reaction forces in Newton's third law of motion?,Higher Order Thinking Skills,Analyzing
+5782,How can Newton's third law of motion be used to explain why a rocket can propel itself through space?,Evaluation,Applying
+5783,Which of the following are types of vectors?,Remembering,Understanding
+5784,What is the difference between a scalar and a vector?,Understanding,Understanding
+5785,"What is the magnitude of the vector (3, 4)?",Application,Understanding
+5786,"What is the direction of the vector (3, 4)?",Higher Order Thinking Skills,Understanding
+5787,Which of the following is NOT a unit vector?,Evaluation,Understanding
+5788,Which of the following are true about the addition of vectors?,Remembering,Understanding
+5789,What is the magnitude of the resultant vector of two vectors of equal magnitude?,Understanding,Understanding
+5790,A force of 10 N is applied to an object at an angle of 30 degrees to the horizontal. What is the horizontal component of the force?,Application,Applying
+5791,A car travels 100 km north and then 50 km east. What is the magnitude of the car's displacement?,Higher Order Thinking Skills,Applying
+5792,Which of the following statements about vectors is false?,Evaluation,Analyzing
